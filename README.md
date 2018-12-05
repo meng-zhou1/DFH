@@ -15,8 +15,11 @@ The demo for "Deep Forest Hashing for Image Retrieval"
 	
 3.Setup (if needed )
 	DFH needs pygco, the wrapper for the graph cuts package gco-v3.0
+	
 	Under normal circumstances, you can run DFH directly. 
+	
 	You'd better run it on Linux OS, we didn't test on Windows OS.
+	
 	If you encounter problems about pygco, please re-install it.
 	We provide the packages in ./libs/gco-v3.0.zip ./libs/pygco.zip
 
