@@ -57,4 +57,19 @@ Besides MNIST, CIFAR-10 and NUS-WIDE, we include 2 other different datasets to c
 
 ### 6.Contact
 If you have any questions about this demo, please feel free to contact Meng Zhou (damengmy@foxmail.com)
-    
+
+### 7.Reference
+If you use this code for your research, please cite our paper:
+
+@article{zhou2019deep,
+  title={Deep Forest Hashing for Image Retrieval},
+  author={Zhou, Meng and Zeng, Xianhua and Chen, Aozhu},
+  journal={Pattern Recognition},
+  year={2019},
+  volume={95},
+  pages={114-127},
+  publisher={Elsevier},
+  issn={0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2019.06.005},
+  url = {http://www.sciencedirect.com/science/article/pii/S0031320319302365}
+}
