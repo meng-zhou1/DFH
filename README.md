@@ -63,7 +63,7 @@ If you use this code for your research, please cite our paper:
 ```
 @article{zhou2019deep,
   title={Deep Forest Hashing for Image Retrieval},
-  author={Zhou, Meng and Zeng, Xianhua and Chen, Aozhu},
+  author={Meng Zhou and Xianhua Zeng and Aozhu Chen},
   journal={Pattern Recognition},
   year={2019},
   volume={95},
