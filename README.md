@@ -60,7 +60,7 @@ If you have any questions about this demo, please feel free to contact Meng Zhou
 
 ### 7.Reference
 If you use this code for your research, please cite our paper:
-
+```
 @article{zhou2019deep,
   title={Deep Forest Hashing for Image Retrieval},
   author={Zhou, Meng and Zeng, Xianhua and Chen, Aozhu},
@@ -73,3 +73,4 @@ If you use this code for your research, please cite our paper:
   doi = {https://doi.org/10.1016/j.patcog.2019.06.005},
   url = {http://www.sciencedirect.com/science/article/pii/S0031320319302365}
 }
+```
